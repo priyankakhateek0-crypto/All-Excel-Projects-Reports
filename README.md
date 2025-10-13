@@ -1,2 +1,1 @@
-# All-Excel-Projects-Reports
-A curated collection of Excel projects showcasing advanced formulas, pivot tables, dynamic dashboards, and data storytelling. Ideal for recruiters and collaborators exploring real-world spreadsheet solutions.
+Welcome! This repository is a curated showcase of my Excel work—featuring dynamic dashboards, advanced formulas, pivot tables, and clean layout designs. Each project reflects my passion for turning messy data into meaningful stories.
